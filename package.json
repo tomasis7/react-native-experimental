@@ -1,0 +1,23 @@
+{
+  "name": "react-native-experimental",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasis7/react-native-experimental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasis7/react-native-experimental/issues"
+  },
+  "homepage": "https://github.com/tomasis7/react-native-experimental#readme",
+  "description": "",
+  "devDependencies": {
+    "@react-native-community/cli": "^18.0.0"
+  }
+}
